@@ -1,8 +1,19 @@
 .header{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     margin-bottom: 25px;
     .logo{
         display: flex;
+    }
+}
+.options{
+    display: flex;
+    justify-content: flex-end;
+
+    .option{
+        display: flex;
+        margin: auto 0.8em auto auto;
+        justify-content: flex-end;
+       
     }
 }
