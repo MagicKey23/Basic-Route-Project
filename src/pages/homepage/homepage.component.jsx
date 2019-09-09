@@ -4,7 +4,7 @@ import './homepage.styles.scss';
 const HomePage = ()=>{
     return (
         <div class = "homepage">
-            <h1>Company Name</h1>
+            <h1>Basic Route</h1>
         </div>
     )
 }

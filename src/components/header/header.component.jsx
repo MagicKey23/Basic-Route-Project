@@ -11,8 +11,8 @@ return (
 
        <div className="options">
            <Link className= 'option' to= 'menu'> <Button>Menu</Button></Link>
-           <Link className= 'option' to= 'menu'> <Button>About Us</Button></Link>
-           <Link className= 'option' to= 'menu'> <Button>Contact</Button></Link>
+           <Link className= 'option' to= 'about'> <Button>About Us</Button></Link>
+           <Link className= 'option' to= 'contact'> <Button>Contact</Button></Link>
        </div>
        
         
